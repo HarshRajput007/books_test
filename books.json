@@ -3,45 +3,9 @@
     "books": [
 
     {
-    "name":"Penetration Testing: A Hands-On Introduction to Hacking",
-    "description":"The first book I would like to recommend is a hacking book that has helped many people to make their first steps into ethical hacking and penetration testing. Penetration Testing: A Hands-On Introduction to Hacking is written by Georgia Weidman and is a good book for anyone new to the subjects as it generally focuses on beginners. The author of this book covers many different subjects such as setting up a lab to enumeration, exploitation, mobile hacking and a lot more. What I personally like about this book is that the author explains every step in the process in detail and also relates it to her wide experience in the field as a penetration tester. So if you’re new to penetration testing without prior experience, this book is a great place to start an exciting journey!",
-    "link":"https://www.careerbuilder.co.in/apply/jdd1tm6y6rrz7cj5mjg/unregistered"
-    },
-
-    {
-    "name":"The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws 2nd Edition",
-    "description":"This fantastic web app hacking book is a must read for anyone that is interested in web application penetration testing and covers everything you need to know about this subject. The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws 2nd Edition is written by the founder of Portswigger which is the company behind the popular security testing & scanning tool called Burp Suite. This book teaches you step by step how to test the security of web applications from start to finish. One thing I particularly like about this book is that it explains different web technologies, how to exploit them and how to defend against the attack in particular. Furthermore this book covers the very basics a web application penetration tester needs to know in depth, such as how the HTTP protocol works in order to get a better understanding of communications between a webserver and visitor which helps in understanding attacks and defense.",
-    "link":" http://asrb.org.in/vacancy"
-    },
-
-    {
-    "name":"Advanced Penetration Testing: Hacking the world’s most secure networks",
-    "description":"If you have read my blog before or follow me on Twitter you would know that I’m a big fan of this book. In 2017 I have read this book and wrote a book review article here on Hacking Tutorials. This book might not be the first book for beginners to read although it puts everything you read about penetration testing in the right perspective. In this book the author covers complex attack simulation and Advanced Persistent Threat (APT) modelling featuring techniques that are way beyond using Metasploit and vulnerability scanners. IT covers subjects such as social engineering, highly secured networks, malware, creating and setting up C2 servers and C&C structures and even advanced data exfiltration techniques. Each chapter describes APT modelling against an organization in a specific industry such as a hospital, pharmaceutical company or bank. The break down in industry also gives the reader a clear view how specific industries have different assets to protect, how they are protected and by who. Finally the author is a very experienced penetration tester/red teamer so the examples and context of the scenarios provided in the book come straight from the field. MUST READ!",
-    "link":"http://uppbpb.gov.in/"
-    },
-
-    {
-    "name":"The Shellcoder’s Handbook: Discovering and Exploiting Security Holes 2nd Edition",
-    "description":"Written by the ultimate group of top security experts this book covers everything you need to on how to find security holes in operating systems and applications. You’ll work with the basic building blocks of security bugs, assembler, source code, the stack, the heap, and so on. The prerequisites of this book require you to have basic programming knowledge and understanding of IT concepts but in my opinion this is not enough. This books is expertly written without much introductions or basics which makes this book a pretty hard one to read and definitely not a joke. If you have a good understanding of programming concepts, x86, assembly, exploit development and want to learn more about various types of advanced exploits like stack overflow, heap overflow and exploit development, Return Oriented Programming, Fuzzing, ASLR/DEP handling and a lot more, this book is for you. If you have less technical knowledge and you’re a beginner on these subjects you’ll probably end up researching a lot of this stuff as a side effect of reading this book (which is not a bad thing though!).",
-    "link":"http://gailonline.com/hindi/CR-ApplyingGail.html"
-    },
-
-    {
-    "name":"Red Team: How to Succeed By Thinking Like the Enemy",
-    "description":"Red Team: How to succeed by thinking like the enemy is written by national security expert Micah Zenko. In this book the author provides in-depth information about the work of red teams, how they operate, the best practices and most common pitfalls, and effective applications of the modern-day Devil’s Advocates approach. At first you might be wondering why I list this book in a hacker/InfoSec book overview as this book does not cover any technical subjects or red teaming tools. But, when you’ve read this book you’ve learned how best practices of red teaming can yield impressive results by thinking like the enemy and considering alternate analysis to reveal weaknesses in systems and processes. What I also like about this book is that the author covers many business scenarios and shortcomings from his experience that anyone who has worked in mid-size or large organizations can relate to. The book also includes a lot of examples of effective and ineffective red teaming exercises and a clear lessons learned review from these exercises. So if you’re looking for a great introduction to red teaming and you’re interested in the history of red teaming, the theory behind it, best practices and pitfalls, critical thinking and alternate analysis, and how to operate red teams, this book is a must read.",
-    "link":"http://allahabadhighcourt.in/calendar/itemWiseList.jsp?group=7"
-    },
-
-    {
-    "name":"Uttar Pradesh Civil Court Staff Centralized Recruitment 2018-19",
-    "description":"Here a snippet of description is shown!!",
-    "link":"http://allahabadhighcourt.in/calendar/itemWiseList.jsp?group=7"
-    },
-
-    {
-    "name":"IIM Jammu Faculty Non-Teaching Job Vacancies",
-    "description":"Here a snippet of description is shown!!",
-    "link":"http://www.iimj.ac.in/jobs-iim-jammu"
+    "name":"This is the Book Section!!",
+    "description":"Here is the Book Details!!",
+    "link":""
     }
 
     ]
