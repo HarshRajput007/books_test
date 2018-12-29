@@ -3,21 +3,9 @@
     "books": [
 
     {
-    "name":"Ethical Hacking and Penetration Testing Guide",
-    "description":"This book contains information obtained from authentic and highly regarded sources. Reasonable efforts have been made to publish reliable data and information, but the author and publisher cannot assume responsibility for the validity of all materials or the consequences of their use. The authors and publishers have attempted to trace the copyright holders of all material reproduced in this publication and apologize to copyright holders if permission to publish in this form has not been obtained. If any copyright material has not been acknowledged please write and let us know so we may rectify in any future reprint.\n\n Writer\n\nRAFAY BALOCH ",
-    "link":"https://drive.google.com/open?id=1Nsq1wkhLxTS_spoOoKcmJp0kAe42JF8V"
-    },
-
-    {
-    "name":"Hackers High School 13 Complete Hacking E-books",
-    "description":"This is the collection of 13 Books of with Ethical Content and best tutorials. Enjoy!",
-    "link":"http://www.mediafire.com/file/416r2iegbbb4v69/13_Complete_Hacking_E-books.rar/file"
-    },
-
-    {
-    "name":"Certified Ethical Hacker Version 8 Study Guide",
-    "description":"If you’re preparing to take the CEH exam, you’ll undoubtedly want to find as much information as you can about computers, networks, applications, and physical security. The more information you have at your disposal and the more hands-on experience you gain, the better off you’ll be when taking the exam. This study guide was written with that goal in mind—to provide enough information to prepare you for the test, but not so much that you’ll be overloaded with information that is too far outside the scope of the exam. To make the information more understandable, I’ve included practical examples and experience that supplements the theory.\n\n Author\n\nSean-Philip Oriyano",
-    "link":"http://www.mediafire.com/file/jpct5o4yo64ab1o/Certified_Ethical_Hacker_Version_8_Study_Guide.pdf/file"
+    "name":"Books section!!",
+    "description":"",
+    "link":""
     }
 
     ]
