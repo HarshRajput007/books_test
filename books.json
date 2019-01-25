@@ -3,6 +3,13 @@
     "books": [
 
     {
+    "name":"501 Website Hacking Secrets",
+    "rating":"9.5",
+    "description":"Michael Miller has written more than fifty how-to and reference books over the last fifteen years, including Wiley’s Building Really Annoying Web Sites (2001). Mr. Miller has established a reputation for practical, real-world advice and an unerring empathy for the needs of his readers. He is known for his casual, easyto-read writing style and his ability to explain a wide variety of complex topics to an everyday audience. \nOf course, not all 501 secrets in this book will be new to you. If you’re Internetsavvy at all, you’ll probably know some of what I reveal in these pages. That’s okay; it only means that you’re on your toes. I’m sure, however, that you’ll find more than a few secrets you didn’t know, and that they’ll make this book a worthwhile read for you. ",
+    "link":"http://www.mediafire.com/file/r6b5w228g5sjygm/501_Website_Hacking_Secrets-_AlphaTech.pdf/file"
+    },
+
+    {
     "name":"Ethical Hacking and Penetration Testing Guide",
     "rating":"8.5",
     "description":"This book contains information obtained from authentic and highly regarded sources. Reasonable efforts have been made to publish reliable data and information, but the author and publisher cannot assume responsibility for the validity of all materials or the consequences of their use. The authors and publishers have attempted to trace the copyright holders of all material reproduced in this publication and apologize to copyright holders if permission to publish in this form has not been obtained. If any copyright material has not been acknowledged please write and let us know so we may rectify in any future reprint.\n\n Writer\n\nRAFAY BALOCH ",
