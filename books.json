@@ -3,38 +3,10 @@
     "books": [
 
     {
-    "name":"501 Website Hacking Secrets",
-    "rating":"9.5",
-    "description":"Michael Miller has written more than fifty how-to and reference books over the last fifteen years, including Wiley’s Building Really Annoying Web Sites (2001). Mr. Miller has established a reputation for practical, real-world advice and an unerring empathy for the needs of his readers. He is known for his casual, easyto-read writing style and his ability to explain a wide variety of complex topics to an everyday audience. \nOf course, not all 501 secrets in this book will be new to you. If you’re Internetsavvy at all, you’ll probably know some of what I reveal in these pages. That’s okay; it only means that you’re on your toes. I’m sure, however, that you’ll find more than a few secrets you didn’t know, and that they’ll make this book a worthwhile read for you. ",
-    "link":"http://www.mediafire.com/file/r6b5w228g5sjygm/501_Website_Hacking_Secrets-_AlphaTech.pdf/file"
-    },
-
-    {
-    "name":"Cross Site Scripting and Hacking Websites",
-    "rating":"7.0",
-    "description":"This is the book that shows you example of the best practices of Websites Hacking with Cross Scripting method. Also it contains all the steps in the form of images so it is easy to understand. \nIf you are interested in Scripting so click on the link below and give it a try!",
-    "link":"http://bit.ly/Cross-Scripting-AlphaTech"
-    },
-
-    {
-    "name":"Ethical Hacking and Penetration Testing Guide",
-    "rating":"8.5",
-    "description":"This book contains information obtained from authentic and highly regarded sources. Reasonable efforts have been made to publish reliable data and information, but the author and publisher cannot assume responsibility for the validity of all materials or the consequences of their use. The authors and publishers have attempted to trace the copyright holders of all material reproduced in this publication and apologize to copyright holders if permission to publish in this form has not been obtained. If any copyright material has not been acknowledged please write and let us know so we may rectify in any future reprint.\n\n Writer\n\nRAFAY BALOCH ",
-    "link":"https://drive.google.com/open?id=1Nsq1wkhLxTS_spoOoKcmJp0kAe42JF8V"
-    },
-
-    {
-    "name":"Hackers High School 13 Complete Hacking E-books",
-    "rating":"8.0",
-    "description":"This is the collection of 13 Books of with Ethical Content and best tutorials. Enjoy!",
-    "link":"http://www.mediafire.com/file/416r2iegbbb4v69/13_Complete_Hacking_E-books.rar/file"
-    },
-
-    {
-    "name":"Certified Ethical Hacker Version 8 Study Guide",
-    "rating":"6.5",
-    "description":"If you’re preparing to take the CEH exam, you’ll undoubtedly want to find as much information as you can about computers, networks, applications, and physical security. The more information you have at your disposal and the more hands-on experience you gain, the better off you’ll be when taking the exam. This study guide was written with that goal in mind—to provide enough information to prepare you for the test, but not so much that you’ll be overloaded with information that is too far outside the scope of the exam. To make the information more understandable, I’ve included practical examples and experience that supplements the theory.\n\n Author\n\nSean-Philip Oriyano",
-    "link":"http://www.mediafire.com/file/jpct5o4yo64ab1o/Certified_Ethical_Hacker_Version_8_Study_Guide.pdf/file"
+    "name":"This is Books Section!!",
+    "description":"This is Books Description",
+    "image":"",
+    "url":""
     }
 
     ]
