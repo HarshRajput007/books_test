@@ -3,8 +3,29 @@
     "books": [
 
     {
+    "name":"01 WEBSITE HACKING SECRETS!!",
+    "description":"This is specifically for the website and among best hacking book for beginners PDF here you will find 501 secrets to hack the websites and each one is useful...",
+    "image":"https://i.pinimg.com/564x/61/c2/e5/61c2e535ebe01c29bc20314368ea17f4.jpg",
+    "url":"https://hackalpha.blogspot.com/2019/02/501-website-hacking-secrets.html"
+    },
+
+    {
+    "name":"HACK ANY WEBSITE, COMPLETE ANY WEB APP HACKING!!",
+    "description":"Website Hacking is an art in itself and in this PDF, you will learn that how to hack a website with step by step guide. One of the simple books to make you an expert....",
+    "image":"https://i.pinimg.com/564x/61/c2/e5/61c2e535ebe01c29bc20314368ea17f4.jpg",
+    "url":"https://hackalpha.blogspot.com/2019/02/hack-any-website-complete-any-web-app.html"
+    },
+
+    {
+    "name":"REVERSE ENGINEERING (THE REAL HACKING)!!",
+    "description":"It is amazing, and rather disconcerting, to realize how much software we run without knowing for sure what it does. We buy software off the shelf in shrinkwrapped packages....",
+    "image":"https://i.pinimg.com/564x/61/c2/e5/61c2e535ebe01c29bc20314368ea17f4.jpg",
+    "url":"https://hackalpha.blogspot.com/2019/02/reverse-engineering-real-hacking.html"
+    },
+
+    {
     "name":"HACKING SECRET REVEALED!!",
-    "description":"ou will find all the secrets of hacking, there are different tricks mentioned to hack Wi-Fi passwords, social accounts and much more. Your little efforts required to make to the smartest hacker.",
+    "description":"You will find all the secrets of hacking, there are different tricks mentioned to hack Wi-Fi passwords, social accounts and much more. Your little efforts required to make to the smartest hacker.",
     "image":"https://i.pinimg.com/564x/61/c2/e5/61c2e535ebe01c29bc20314368ea17f4.jpg",
     "url":"https://hackalpha.blogspot.com/2019/02/hacking-secret-revealed.html"
     },
